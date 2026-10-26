@@ -1,1 +1,2 @@
 Cart items: Rice, Milk
+Added item: Bread
